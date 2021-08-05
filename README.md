@@ -17,6 +17,7 @@ https://git-school.github.io/visualizing-git/ <br>
 https://guides.github.com/activities/hello-world/ <br>
 https://www.atlassian.com/git/tutorials/using-branches
 
+## 05-Aug: 
 ### Python Development Environment Setup
 VSCode, Jupyter notebook
 
@@ -29,7 +30,6 @@ http://pythontutor.com/visualize.html <br>
 https://automatetheboringstuff.com/2e/chapter13/<br>
 https://automatetheboringstuff.com/2e/chapter16/<br>
 
-## 05-Aug: 
 ### Python Application: Automate Mouse, Keyboard
 https://automatetheboringstuff.com/2e/chapter20/
 
