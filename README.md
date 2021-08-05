@@ -14,7 +14,8 @@ Create a LeetCode account (use your personal email): https://leetcode.com/
 ### Introduction to Git, Github <br>
 https://rogerdudler.github.io/git-guide/ <br>
 https://git-school.github.io/visualizing-git/ <br>
-https://guides.github.com/activities/hello-world/
+https://guides.github.com/activities/hello-world/ <br>
+https://www.atlassian.com/git/tutorials/using-branches
 
 ### Python Development Environment Setup
 VSCode, Jupyter notebook
