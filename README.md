@@ -15,8 +15,8 @@ Create a LeetCode account (use your personal email): https://leetcode.com/
 https://rogerdudler.github.io/git-guide/ <br>
 https://git-school.github.io/visualizing-git/ <br>
 https://guides.github.com/activities/hello-world/ <br>
-https://www.atlassian.com/git/tutorials/using-branches
-
+https://www.atlassian.com/git/tutorials/using-branches <br>
+(Git and GitHub Crash Course By Google) https://www.youtube.com/watch?v=PtBr0fpKyFg
 ## 05-Aug: 
 ### Python Development Environment Setup
 VSCode, Jupyter notebook
@@ -24,7 +24,8 @@ VSCode, Jupyter notebook
 ### Recap Python basics
 https://automatetheboringstuff.com/ (Chap 0 - 6) <br>
 http://pythontutor.com/visualize.html <br>
-(Python Practice) https://leetcode.com/explore/featured/card/fun-with-arrays/
+(Python Practice) https://leetcode.com/explore/featured/card/fun-with-arrays/ <br>
+(Python for Beginners (Full Course By Google)) https://www.youtube.com/watch?v=VArEbEN3ybw
 
 ### Python Application: Working with CSV, Excel, JSON, Perform Exploratory Data Analysis (EDA)
 https://automatetheboringstuff.com/2e/chapter13/<br>
